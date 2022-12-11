@@ -16,7 +16,7 @@ class App extends Component {
         <div className="App">
           <div className="side">
             <nav className="navbar side navbar-expand-lg navbar-light p-0" >
-              <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" style={{ zIndex: '1' }}>
+              <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" style={{ zIndex: '30',background:"#FCEEB4" }}>
                 <span className="navbar-toggler-icon"></span>
               </button>
               <div className="collapse navbar-collapse" id="navbarSupportedContent">
