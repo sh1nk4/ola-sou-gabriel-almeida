@@ -34,7 +34,7 @@ class Education extends Component {
                                                     <MdSchool />
                                                 </div>
                                                 <div className={classes.label}>
-                                                    <h2 >Análise e Desenvolvimento de Sistemas na <b>facu</b> <span>2022-2024</span></h2>
+                                                    <h2 >Análise e Desenvolvimento de Sistemas na <b>Estácio</b> <span>2022-2024</span></h2>
                                                     <p>Aprendendo conceitos da programação desde os fundamentos, passando por tecnologias antigas e novas.</p>
                                                 </div>
                                             </article>
